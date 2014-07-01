@@ -1,6 +1,3 @@
-Malaysia and Singapore Developer Interest Groups on Facebook
-============================================================
-
 Malaysia General
 ----------------
 * [WebCamp KL](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development. Also used to have monthly meetup every last Wednesday (now renamed LVL.UP KL) at Mindvalley's Hall of Awesomness at Menara UOA Bangsar.
