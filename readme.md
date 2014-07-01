@@ -66,7 +66,6 @@ Mobile Apps
 * [CodeAndroid Singapore](https://www.facebook.com/groups/codeandroid/)
 * [iOS Dev Scout (Singapore)](https://www.facebook.com/groups/iosdevscout/)
 * [Xamarin Developers Malaysia](https://www.facebook.com/groups/xamarinmydev/)
-* [ALMUC Application Lifecycle Management User Community](https://www.facebook.com/groups/32952364537/)
 
 Microsoft
 ---------
@@ -80,7 +79,7 @@ Microsoft
 * [SQL Server Practitioners Alliance Network](https://www.facebook.com/groups/sqlspan/)
 * [Microsoft Innovation Center Malaysia](https://www.facebook.com/groups/micmalaysia/)
 * [ELITE MALAYSIA](https://www.facebook.com/groups/elitemalaysia/)
-* [Xamarin Developers Malaysia](https://www.facebook.com/groups/xamarinmydev/)
+* [ALMUC Application Lifecycle Management User Community](https://www.facebook.com/groups/32952364537/)
 
 NoSQL
 -----
