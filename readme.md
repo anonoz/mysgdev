@@ -106,3 +106,10 @@ Cryptocurrencies
 * [Bitcoin Malaysia Open Group](https://www.facebook.com/groups/626846267377737/)
 * [Cryptocurrency Malaysia](https://www.facebook.com/groups/467457310022522/)
 * [BitCoin Singapore](https://www.facebook.com/groups/bitcoin.sg/)
+
+Tech Calendars
+--------------
+* [thelist.sg](http://thelist.sg)
+* [TECH in KL](http://www.techinkl.com)
+* [Calendata](www.calendata.com/)
+* [Tech Events 4 Penang](http://te4p.com)
