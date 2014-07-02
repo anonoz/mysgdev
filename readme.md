@@ -1,19 +1,24 @@
 Malaysia General
 ----------------
-* [WebCamp KL](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development. Also used to have monthly meetup every last Wednesday (now renamed LVL.UP KL) at Mindvalley's Hall of Awesomness at Menara UOA Bangsar.
-* [WebCamp Cyberjaya](https://www.facebook.com/groups/webcampcyberjaya/) - Spin-off of WebCamp KL in Cyberjaya, but seemingly defunct monthly meetup that usually happens inside MMU.
-* [IdealTech Group](https://www.facebook.com/groups/idealtech2007/) - Owned by a renowned PC gaming rig builder in Pandan Indah, members discuss about custom PC builds and show off theirs. You can ask about recommendations for your desktop specs here, don't worry they don't bite.
-* [Programmer Club](https://www.facebook.com/groups/clubprogrammer/) - General programmer group, contain a good mix of programmers from open source and proprietary stack background. Mostly Chinese speaking programmers can be found here.
+* [WebCamp KL](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development.
+* [WebCamp Cyberjaya](https://www.facebook.com/groups/webcampcyberjaya/)
+* [IdealTech Group](https://www.facebook.com/groups/idealtech2007/) - Gaming rig discussion
+* [Programmer Club](https://www.facebook.com/groups/clubprogrammer/) - Chinese dominant tech group
+* [MYCLUG (Malaysian Chinese Linux User Group)](https://www.facebook.com/groups/myclug/)
 * [Malaysia Tech Startups](https://www.facebook.com/groups/124889717608837/)
-* [OpenCoffeeClub](https://www.facebook.com/groups/opencoffeeclubkl/) - Mostly for entrepreneurs to hang out.
-* [AWS User Group](https://www.facebook.com/groups/awsugmy/) - For Amazon Web Services users.
-* [StartupMamak](https://www.facebook.com/groups/startupmamak/) - Another monthly meetup group for startup entrepreneurs.
+* [OpenCoffee Club Malaysia](https://www.facebook.com/groups/opencoffeeclubkl/)
+* [AWS User Group](https://www.facebook.com/groups/awsugmy/)
+* [StartupMamak](https://www.facebook.com/groups/startupmamak/)
+* [WCKL Co-working Heroes](https://www.facebook.com/groups/wcklcoworking/)
 
 Singapore General
 -----------------
 * [StartupGrind Singapore](https://www.facebook.com/groups/StartupGrindSingapore/)
 * [Blk71 Peeps!](https://www.facebook.com/groups/blk71peeps/)
 * [Singapore Start-Up Club](https://www.facebook.com/groups/Singaporestartupclub/)
+* [OpenCoffee Club Singapore](https://www.facebook.com/groups/OpenCoffeeClubSG)
+* [AWS User Group Singapore](https://www.facebook.com/groups/awsugsg/)
+* [SUSE Linux User Group Singapore](https://www.facebook.com/groups/slugsingapore/)
 
 Hackerspaces
 ------------
@@ -37,6 +42,7 @@ Ruby
 ----
 * [KL Ruby Brigade](https://www.facebook.com/groups/klxrb) - Monthly meetup at Mindvalley every first Tuesday of the month. Discussions not limiting to any Ruby frameworks.
 * [Singapore Ruby Brigade](https://www.facebook.com/groups/singaporerubybrigade/)
+* [Rails Girls Singapore](https://www.facebook.com/groups/railsgirlssingapore/)
 * [Ruby on Rails Malaysia (English)](https://www.facebook.com/groups/rails.my.english/)
 * [Ruby on Rails No Boundaries (MY/SG)](https://www.facebook.com/groups/rubySG/)
 
@@ -84,10 +90,15 @@ Microsoft
 NoSQL
 -----
 * [NoSQL KL](https://www.facebook.com/groups/nosqlkl/)
+* [KL MongoDB User Group](https://www.facebook.com/groups/klmug/)
+* [Singapore MongoDB User Group](https://www.facebook.com/groups/mongosg/)
 
 Internet of Things
 ------------------
 * [Raspberry Pi & Co Singapore](https://www.facebook.com/groups/raspberrypisingapore/)
+* [Raspberry Pi Malaysia](https://www.facebook.com/groups/RaspberryPiMalaysia/)
+* [Arduino Community Singapore](https://www.facebook.com/groups/arduinosg/)
+* [Arduino Malaysia](https://www.facebook.com/groups/arduinomalaysia/)
 
 Cryptocurrencies
 ----------------
