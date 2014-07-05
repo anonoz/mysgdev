@@ -16,6 +16,7 @@ Singapore General
 * [StartupGrind Singapore](https://www.facebook.com/groups/StartupGrindSingapore/)
 * [Blk71 Peeps!](https://www.facebook.com/groups/blk71peeps/)
 * [Singapore Start-Up Club](https://www.facebook.com/groups/Singaporestartupclub/)
+* [Hackers and Painters](https://www.facebook.com/groups/hackerspainters/)
 * [OpenCoffee Club Singapore](https://www.facebook.com/groups/OpenCoffeeClubSG)
 * [AWS User Group Singapore](https://www.facebook.com/groups/awsugsg/)
 * [SUSE Linux User Group Singapore](https://www.facebook.com/groups/slugsingapore/)
