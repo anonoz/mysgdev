@@ -9,6 +9,7 @@ Malaysia General
 * [OpenCoffee Club Malaysia](https://www.facebook.com/groups/opencoffeeclubkl/)
 * [AWS User Group](https://www.facebook.com/groups/awsugmy/)
 * [StartupMamak](https://www.facebook.com/groups/startupmamak/)
+* [Malaysia Start-Up Club](https://www.facebook.com/groups/malaysiastartupclub/)
 * [WCKL Co-working Heroes](https://www.facebook.com/groups/wcklcoworking/)
 
 Singapore General
@@ -60,10 +61,18 @@ JavaScript
 * [AngularJS](https://www.facebook.com/groups/255769184523171/) - Unfortunately Malaysia doesn't have its own Angular.js group, but the international one is quite active.
 * [NodeHack](https://www.facebook.com/groups/nodehack/) - For the Node.JS developers
 
+Java
+----
+* [Java User Group - Singapore](https://www.facebook.com/groups/jug.my/)
+
 Python
 ------
 * [Python User Group Malaysia](https://www.facebook.com/groups/python.malaysia/)
 * [Singapore Python User Group](https://www.facebook.com/groups/pythonsg/)
+
+Scala
+-----
+* [Malaysia Scala User Group](https://www.facebook.com/groups/myscala/)
 
 Mobile Apps
 -----------
@@ -93,6 +102,11 @@ NoSQL
 * [NoSQL KL](https://www.facebook.com/groups/nosqlkl/)
 * [KL MongoDB User Group](https://www.facebook.com/groups/klmug/)
 * [Singapore MongoDB User Group](https://www.facebook.com/groups/mongosg/)
+
+Big Data
+--------
+* [Big Data Malaysia](https://www.facebook.com/groups/bigdatamy/)
+* [R User Group Singapore](http://www.meetup.com/R-User-Group-SG/)
 
 Internet of Things
 ------------------
