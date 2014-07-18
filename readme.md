@@ -32,6 +32,8 @@ Job Postings
 ------------
 * [WCKL Jobs](https://www.facebook.com/groups/wckljobs/) - Hire or get hired here. Mostly web development jobs around KL.
 * [IT Job](https://www.facebook.com/groups/itjob.malaysia/) - Secondary job posting group, don't expect great stuffs here.
+* [Startup Jobs Malaysia](https://www.facebook.com/groups/startupjobsmalaysia/)
+* [Startup Jobs Singapore](https://www.facebook.com/groups/startupjobsingapore/)
 
 Hackathons
 ----------
