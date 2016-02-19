@@ -137,5 +137,5 @@ Cryptocurrencies
 Tech Calendars
 --------------
 * [thelist.sg](http://thelist.sg)
-* [Calendata](www.calendata.com/)
+* [Calendata](http://www.calendata.com/)
 * [Tech Events 4 Penang](http://te4p.com)
