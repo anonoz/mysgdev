@@ -1,9 +1,9 @@
 Malaysia General
 ----------------
 * [WebCamp KL](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development.
-* [WebCamp Cyberjaya](https://www.facebook.com/groups/webcampcyberjaya/)
+* [Programming Laman Web + UI/UX](https://www.facebook.com/groups/jomweb/) - Mostly in Bahasa
+* [Programmer Club](https://www.facebook.com/groups/clubprogrammer/) - Mostly in Chinese
 * [IdealTech Group](https://www.facebook.com/groups/idealtech2007/) - Gaming rig discussion
-* [Programmer Club](https://www.facebook.com/groups/clubprogrammer/) - Chinese dominant tech group
 * [MYCLUG (Malaysian Chinese Linux User Group)](https://www.facebook.com/groups/myclug/)
 * [Malaysia Tech Startups](https://www.facebook.com/groups/124889717608837/)
 * [OpenCoffee Club Malaysia](https://www.facebook.com/groups/opencoffeeclubkl/)
@@ -22,18 +22,22 @@ Singapore General
 * [AWS User Group Singapore](https://www.facebook.com/groups/awsugsg/)
 * [SUSE Linux User Group Singapore](https://www.facebook.com/groups/slugsingapore/)
 
-Hackerspaces
-------------
-* [Hackerspace SG](https://www.facebook.com/groups/hackerspacesg/)
-* [Hackerspace KL](https://www.facebook.com/groups/hackerspace.my/)
-* [Hackerspace JB](https://www.facebook.com/groups/hackerspacejb/)
-
 Job Postings
 ------------
 * [WCKL Jobs](https://www.facebook.com/groups/wckljobs/) - Hire or get hired here. Mostly web development jobs around KL.
 * [IT Job](https://www.facebook.com/groups/itjob.malaysia/) - Secondary job posting group, don't expect great stuffs here.
 * [Startup Jobs Malaysia](https://www.facebook.com/groups/startupjobsmalaysia/)
 * [Startup Jobs Singapore](https://www.facebook.com/groups/startupjobsingapore/)
+
+Hackerspaces
+------------
+* [Hackerspace SG](https://www.facebook.com/groups/hackerspacesg/)
+* [Hackerspace KL](https://www.facebook.com/groups/hackerspace.my/)
+* [Hackerspace JB](https://www.facebook.com/groups/hackerspacejb/)
+
+Universities
+------------
+* [IT Society MMU Cyberjaya](https://www.facebook.com/groups/itsociety.cyberjaya/)
 
 Hackathons
 ----------
@@ -73,6 +77,10 @@ Python
 ------
 * [Python User Group Malaysia](https://www.facebook.com/groups/python.malaysia/)
 * [Singapore Python User Group](https://www.facebook.com/groups/pythonsg/)
+
+Golang
+------
+* [Golang Malaysia](https://www.facebook.com/groups/mygolang/)
 
 Scala
 -----
@@ -129,6 +137,5 @@ Cryptocurrencies
 Tech Calendars
 --------------
 * [thelist.sg](http://thelist.sg)
-* [TECH in KL](http://www.techinkl.com)
 * [Calendata](www.calendata.com/)
 * [Tech Events 4 Penang](http://te4p.com)
