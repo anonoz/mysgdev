@@ -95,6 +95,7 @@ Mobile Apps
 * [CodeAndroid Singapore](https://www.facebook.com/groups/codeandroid/)
 * [iOS Dev Scout (Singapore)](https://www.facebook.com/groups/iosdevscout/)
 * [Xamarin Developers Malaysia](https://www.facebook.com/groups/xamarinmydev/)
+* [Swift iOS User Group Malaysia](https://www.facebook.com/groups/SwiftiOSUserGroupMalaysia/)
 
 Microsoft
 ---------
