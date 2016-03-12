@@ -11,6 +11,7 @@ Malaysia General
 * [StartupMamak](https://www.facebook.com/groups/startupmamak/)
 * [Malaysia Start-Up Club](https://www.facebook.com/groups/malaysiastartupclub/)
 * [WCKL Co-working Heroes](https://www.facebook.com/groups/wcklcoworking/)
+* [Artificial Intelligence User Group Malaysia](https://www.facebook.com/groups/AIUGM/) - To learn and practice more (not only theory) about Artificial Intelligence (e.g: computer vision, intelligence system...) in our life.
 
 Singapore General
 -----------------
@@ -94,6 +95,7 @@ Mobile Apps
 * [CodeAndroid Singapore](https://www.facebook.com/groups/codeandroid/)
 * [iOS Dev Scout (Singapore)](https://www.facebook.com/groups/iosdevscout/)
 * [Xamarin Developers Malaysia](https://www.facebook.com/groups/xamarinmydev/)
+* [Swift iOS User Group Malaysia](https://www.facebook.com/groups/SwiftiOSUserGroupMalaysia/)
 
 Microsoft
 ---------
