@@ -2,6 +2,7 @@
 
 General
 -------
+* [Web Wednesday - Hong Kong](https://www.facebook.com/groups/webwednesdayhk/)
 * [The Hong Kong Startups and Entrepreneurs Group](https://www.facebook.com/groups/935603033186404/)
 * [UX Hong Kong](https://www.facebook.com/groups/uxhongkong/?ref=br_rs)
 
