@@ -1,3 +1,3 @@
 # Hong Kong Tech Groups
 
-_TODO_
+* [FinTech Hong Kong 香港金融科技](https://www.facebook.com/groups/539557396206416/)
