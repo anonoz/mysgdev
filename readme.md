@@ -22,13 +22,6 @@ Singapore General
 * [OpenCoffee Club Singapore](https://www.facebook.com/groups/OpenCoffeeClubSG)
 * [AWS User Group Singapore](https://www.facebook.com/groups/awsugsg/)
 * [SUSE Linux User Group Singapore](https://www.facebook.com/groups/slugsingapore/)
-* [iOS Dev Scout] (https://www.facebook.com/groups/iosdevscout/)
-* [.NET Developers Community Singapore] (https://www.facebook.com/groups/sg.netdev/)
-* [Azure Community Singapore] (https://www.facebook.com/groups/azure.community.singapore/)
-* [Singapore Windows Group] (https://www.facebook.com/groups/sgwindowsgroup/)
-* [Windows (Mobile) Singapore Developer Community | Apollo Explorer] (https://www.facebook.com/groups/apolloexplorer/)
-* [Windows Singapore Developer Community | Dream. Build. Launch] (https://www.facebook.com/groups/dreambuildlaunch/)
-* [CodeAndroid Singapore - Google Android Developer Group] (https://www.facebook.com/groups/codeandroid/)
 
 Job Postings
 ------------
@@ -117,6 +110,11 @@ Microsoft
 * [Microsoft Innovation Center Malaysia](https://www.facebook.com/groups/micmalaysia/)
 * [ELITE MALAYSIA](https://www.facebook.com/groups/elitemalaysia/)
 * [ALMUC Application Lifecycle Management User Community](https://www.facebook.com/groups/32952364537/)
+* [.NET Developers Community Singapore] (https://www.facebook.com/groups/sg.netdev/)
+* [Azure Community Singapore] (https://www.facebook.com/groups/azure.community.singapore/)
+* [Singapore Windows Group] (https://www.facebook.com/groups/sgwindowsgroup/)
+* [Windows (Mobile) Singapore Developer Community | Apollo Explorer] (https://www.facebook.com/groups/apolloexplorer/)
+* [Windows Singapore Developer Community | Dream. Build. Launch] (https://www.facebook.com/groups/dreambuildlaunch/)
 
 NoSQL
 -----
