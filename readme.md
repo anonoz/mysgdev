@@ -71,7 +71,7 @@ JavaScript
 
 Java
 ----
-* [Java User Group - Singapore](https://www.facebook.com/groups/jug.my/)
+* [Java User Group - Malaysia](https://www.facebook.com/groups/jug.my/)
 * [Groovy User Group Malaysia](https://www.facebook.com/groups/232377046816685)
 
 Python
