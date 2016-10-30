@@ -39,6 +39,7 @@ Hackerspaces
 Universities
 ------------
 * [IT Society MMU Cyberjaya](https://www.facebook.com/groups/itsociety.cyberjaya/)
+* [APU Student Developer Society](https://www.facebook.com/groups/APUSDS/)
 
 Hackathons
 ----------
