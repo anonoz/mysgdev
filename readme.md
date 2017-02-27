@@ -41,14 +41,6 @@ Universities
 * [IT Society MMU Cyberjaya](https://www.facebook.com/groups/itsociety.cyberjaya/)
 * [APU Student Developer Society](https://www.facebook.com/groups/APUSDS/)
 
-Hackathons
-----------
-* [Malaysia Developers Day 2013](https://www.facebook.com/groups/MDD2013/) - Formed during AT&T hackathon at Westin Hotel KL on 26 & 27 September 2013.
-* [Malaysia Developers Day 2014](https://www.facebook.com/groups/mydd2014/) - At KLCC
-* [AngelHack KL](https://www.facebook.com/groups/angelhackkl/) - Formed during AngelHack KL Spring 2013.
-* [WOWZAPP 2012](https://www.facebook.com/groups/mywowzapp2012/)
-* [Mega Startup Weekend](https://www.facebook.com/groups/megastartupweekend/)
-
 Ruby
 ----
 * [KL Ruby Brigade](https://www.facebook.com/groups/klxrb) - Monthly meetup at Mindvalley every first Tuesday of the month. Discussions not limiting to any Ruby frameworks.
@@ -88,6 +80,10 @@ Golang
 Scala
 -----
 * [Malaysia Scala User Group](https://www.facebook.com/groups/myscala/)
+
+DevOps
+------
+* [DevOps Malaysia](https://www.facebook.com/groups/devopsmalaysia/)
 
 Mobile Apps
 -----------
