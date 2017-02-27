@@ -83,6 +83,7 @@ Python
 Golang
 ------
 * [Golang Malaysia](https://www.facebook.com/groups/mygolang/)
+* [Singapore Gophers](https://www.facebook.com/groups/golang.sg/)
 
 Scala
 -----
@@ -126,6 +127,7 @@ NoSQL
 Big Data
 --------
 * [Big Data Malaysia](https://www.facebook.com/groups/bigdatamy/)
+* [R User Group Malaysia (page)](https://www.facebook.com/rusergroupmalaysia/)
 * [R User Group Singapore](http://www.meetup.com/R-User-Group-SG/)
 
 Internet of Things
