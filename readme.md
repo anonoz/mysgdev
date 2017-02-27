@@ -22,6 +22,7 @@ Singapore General
 * [OpenCoffee Club Singapore](https://www.facebook.com/groups/OpenCoffeeClubSG)
 * [AWS User Group Singapore](https://www.facebook.com/groups/awsugsg/)
 * [SUSE Linux User Group Singapore](https://www.facebook.com/groups/slugsingapore/)
+* [List of groups on Engineers.sg](https://engineers.sg/organizations)
 
 Job Postings
 ------------
@@ -80,10 +81,12 @@ Golang
 Scala
 -----
 * [Malaysia Scala User Group](https://www.facebook.com/groups/myscala/)
+* [Singapore Scala Programmers](https://www.meetup.com/Singapore-Scala-Programmers/)
 
 DevOps
 ------
 * [DevOps Malaysia](https://www.facebook.com/groups/devopsmalaysia/)
+* [Agile & DevOps SG](https://www.facebook.com/groups/agiledevopssg/)
 
 Mobile Apps
 -----------
