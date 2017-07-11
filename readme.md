@@ -112,11 +112,11 @@ Microsoft
 * [Microsoft Innovation Center Malaysia](https://www.facebook.com/groups/micmalaysia/)
 * [ELITE MALAYSIA](https://www.facebook.com/groups/elitemalaysia/)
 * [ALMUC Application Lifecycle Management User Community](https://www.facebook.com/groups/32952364537/)
-* [.NET Developers Community Singapore] (https://www.facebook.com/groups/sg.netdev/)
-* [Azure Community Singapore] (https://www.facebook.com/groups/azure.community.singapore/)
-* [Singapore Windows Group] (https://www.facebook.com/groups/sgwindowsgroup/)
-* [Windows (Mobile) Singapore Developer Community | Apollo Explorer] (https://www.facebook.com/groups/apolloexplorer/)
-* [Windows Singapore Developer Community | Dream. Build. Launch] (https://www.facebook.com/groups/dreambuildlaunch/)
+* [.NET Developers Community Singapore](https://www.facebook.com/groups/sg.netdev/)
+* [Azure Community Singapore](https://www.facebook.com/groups/azure.community.singapore/)
+* [Singapore Windows Group](https://www.facebook.com/groups/sgwindowsgroup/)
+* [Windows (Mobile) Singapore Developer Community | Apollo Explorer](https://www.facebook.com/groups/apolloexplorer/)
+* [Windows Singapore Developer Community | Dream. Build. Launch](https://www.facebook.com/groups/dreambuildlaunch/)
 
 NoSQL
 -----
