@@ -63,7 +63,6 @@ JavaScript
 * [JavaScript Developers Malaysia](https://www.facebook.com/groups/javascript.my/)
 * [KualaLumpurJS](https://www.facebook.com/groups/kualalumpurjs) - Organise quite a lot of meetup and workshop as of Dec 2018
 * [Singapore Node.JS User Group](https://www.facebook.com/groups/sg.nodejs/)
-* [AngularJS](https://www.facebook.com/groups/255769184523171/) - ~Unfortunately Malaysia doesn't have its own Angular.js group, but the international one is quite active.~
 * [Angular Malaysia](https://www.facebook.com/groups/959601730804414)
 * [ReactJS ReactNative Malaysia](https://www.facebook.com/groups/766491493448337)
 * [NodeHack](https://www.facebook.com/groups/nodehack/) - For the Node.JS developers
