@@ -67,6 +67,10 @@ JavaScript
 * [ReactJS ReactNative Malaysia](https://www.facebook.com/groups/766491493448337)
 * [NodeHack](https://www.facebook.com/groups/nodehack/) - For the Node.JS developers
 
+Kotlin
+---
+* [Kotlin User Group - Singapore](https://www.meetup.com/kotlinsg/)
+
 Java
 ----
 * [Java User Group - Malaysia](https://www.facebook.com/groups/jug.my/)
@@ -102,6 +106,11 @@ Mobile Apps
 * [Xamarin Developers Malaysia](https://www.facebook.com/groups/xamarinmydev/)
 * [Swift iOS User Group Malaysia](https://www.facebook.com/groups/SwiftiOSUserGroupMalaysia/)
 * [MYCocoaHeads](https://www.facebook.com/groups/mycocoaheads/)
+
+Google
+---
+* [Google Developer Groups Singapore](https://www.facebook.com/gdgsgorg/)
+* [Developer Space @ Google Singapore](https://sites.google.com/view/devspace-sg)
 
 Microsoft
 ---------
