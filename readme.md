@@ -43,6 +43,9 @@ Universities
 ------------
 * [IT Society MMU Cyberjaya](https://www.facebook.com/groups/itsociety.cyberjaya/)
 * [APU Student Developer Society](https://www.facebook.com/groups/APUSDS/)
+* [UTAR Information Technology Society](https://www.facebook.com/groups/1482998275093957)
+* [TAR UC Computer Science Society](https://www.facebook.com/groups/css.support)
+* [Sunway Tech Club](https://www.facebook.com/sunwaytechclub/)
 
 Ruby
 ----
