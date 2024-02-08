@@ -1,5 +1,10 @@
 Malaysia General
 ----------------
+
+* [Developer Kaki (40k)](https://www.facebook.com/groups/developerkaki/)
+* [Entrepreneurs and Startups (149k)](https://www.facebook.com/groups/NextUpAsia)
+
+<!--
 * [WebCamp KL](https://www.facebook.com/groups/webcamp/) - Online group that gathers web developers, business guys and occassionally UX/UI designers that specialize in web and mobile development.
 * [Programming Laman Web + UI/UX](https://www.facebook.com/groups/jomweb/) - Mostly in Bahasa
 * [Programmer Club](https://www.facebook.com/groups/clubprogrammer/) - Mostly in Chinese
@@ -14,6 +19,7 @@ Malaysia General
 * [Artificial Intelligence User Group Malaysia](https://www.facebook.com/groups/AIUGM/)
 * [e-wallet malaysia](https://www.facebook.com/groups/ewalletmalaysia) - E-wallet Malaysia discussion by ecInsider
 * [Findev Malaysia](https://www.facebook.com/groups/1952619934822050) - Fintech develeper discussion by Revenue Monster
+
 
 Singapore General
 -----------------
@@ -165,3 +171,5 @@ Tech Calendars
 * [thelist.sg](http://thelist.sg)
 * [Calendata](http://www.calendata.com/)
 * [Tech Events 4 Penang](http://te4p.com)
+
+-->
